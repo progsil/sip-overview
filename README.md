@@ -1,6 +1,6 @@
 # sip-overview
 
-## PROTOCOLO SIP
+## SIP PROTOCOL
 
 Session Initiation Protocol (SIP) é um protocolo de sinalização utilizado para iniciar, manter e terminar sessões de comunicação multimídia, como chamadas de voz e vídeo, mensagens instantâneas e conferências, em redes IP. O SIP é um protocolo de aplicação, definido principalmente para a internet, e funciona de forma similar ao HTTP e SMTP, utilizando um formato de mensagens de texto simples e ASCII.
 
